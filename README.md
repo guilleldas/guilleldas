@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guilleldas
+- 👋 Hi, I’m Guillermo
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to collaborate on challeging projects that allow me to improve my skills.
