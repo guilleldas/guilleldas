@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guillermo
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning pursuing my Master degree in Data Science.
+- 🌱 I’m currently pursuing my Master degree in Data Science.
 - 💞️ I’m looking to collaborate on challeging projects that allow me to improve my skills.
 - 📫 How to reach me - Cellphone: +34 645018043 or Email: guillermo.lodeiro@gmail.com
 
