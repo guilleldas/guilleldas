@@ -1,5 +1,5 @@
 <h4 align="left">Hi, I'm Guillermo!</h4>
-<h4 align="left">🚀 Data Science enthusiast on a journey from novice to ninja. Let's turn data into impact!</h4>
+<h4 align="left">🚀 Data Science enthusiast on a journey from novice to ninja.</h4>
 
 <h4 align="left"> Currently pursuing my master degree in Data Science and Business Analytics at Universidad Complutense de Madrid.
 
